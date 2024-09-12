@@ -1,0 +1,1 @@
+{"population_size": 131, "num_generations": 165, "tournament_size": 5, "crossover_rate": 0.2155819371493924, "mutation_rate": 0.14940259147337465, "max_depth": 7, "num_variables": 96, "num_constants": 28, "min_constant": -6.00888582082296, "max_constant": 1.8294887290137263}
